@@ -1,9 +1,12 @@
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gisuk2&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisuk2&layout=compact&theme=radical" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gisuk2&show_icons=true&theme=radical&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gisuk2&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ## 🛠 Tech Stack
