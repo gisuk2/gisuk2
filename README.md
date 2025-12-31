@@ -1,11 +1,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gisuk2&show_icons=true&theme=radical" alt="gisuk2's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisuk2&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gisuk2&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisuk2&layout=compact&theme=radical" height="170" />
 </div>
-
-<br/>
 
 
 ## 🛠 Tech Stack
